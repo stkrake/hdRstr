@@ -5,4 +5,4 @@ It just uses issues and releases to manage (binary) beta releases.
 
 More info on [https://stkrake.de/hdRstr](https://stkrake.de/hdRstr).
 
-Latest beta release: https://github.com/stkrake/hdRstr/releases/tag/v0.1.2-beta
+Latest beta release: https://github.com/stkrake/hdRstr/releases/tag/v0.1.3-beta
